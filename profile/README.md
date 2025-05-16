@@ -6,8 +6,7 @@ Our logo, a mix of rainbow noodles, symbolizes the dynamic and interconnected fl
 
 
 ## ✉️ Support  
-Need help or have questions? Reach out to us:  
-- **Email:** [pros@unicam.it](mailto:pros@unicam.it)
+Need help or have questions? Reach out to us: [pros@unicam.it](mailto:pros@unicam.it)
 
 ---
 
@@ -18,20 +17,15 @@ We value your thoughts! Please share your experience and suggestions:  [Fill out
 
 ## 👥 **Contributors (So Far)**  
 
-- **Alessio Giacché** — Development  
-  ✉️ [alessio.giacche@studenti.unicam.it](mailto:alessio.giacche@studenti.unicam.it)  
+- **Alessio Giacché** — Development ✉️ [alessio.giacche@studenti.unicam.it](mailto:alessio.giacche@studenti.unicam.it)  
 
-- **Sara Pettinari** — Development & Research  
-  ✉️ [sara.pettinari@gssi.it](mailto:sara.pettinari@gssi.it)  
+- **Sara Pettinari** — Development & Research ✉️ [sara.pettinari@gssi.it](mailto:sara.pettinari@gssi.it)  
 
-- **Lorenzo Rossi** — Development & Research  
-  ✉️ [lorenzo.rossi@unicam.it](mailto:lorenzo.rossi@unicam.it)  
+- **Lorenzo Rossi** — Development & Research ✉️ [lorenzo.rossi@unicam.it](mailto:lorenzo.rossi@unicam.it)  
 
-- **Barbara Re** — Research  
-  ✉️ [barbara.re@unicam.it](mailto:barbara.re@unicam.it)  
+- **Barbara Re** — Research ✉️ [barbara.re@unicam.it](mailto:barbara.re@unicam.it)  
 
-- **Flavio Corradini** — Research Support  
-  ✉️ [flavio.corradini@unicam.it](mailto:flavio.corradini@unicam.it)
+- **Flavio Corradini** — Research Support ✉️ [flavio.corradini@unicam.it](mailto:flavio.corradini@unicam.it)
   
 ---
 
