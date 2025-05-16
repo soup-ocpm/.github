@@ -12,8 +12,7 @@ Need help or have questions? Reach out to us:
 ---
 
 ## 📝 Feedback
-We value your thoughts! Please share your experience and suggestions:  
-[**📝 Fill out our feedback form**](https://forms.gle/JQp31UeSrBpMX9mL9)  
+We value your thoughts! Please share your experience and suggestions:  [Fill out our feedback form](https://forms.gle/JQp31UeSrBpMX9mL9)  
 
 ---
 
