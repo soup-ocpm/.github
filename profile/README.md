@@ -17,7 +17,9 @@ We value your thoughts! Please share your experience and suggestions:  [Fill out
 
 ## 👥 **Contributors (So Far)**  
 
-- **Alessio Giacché** — Development ✉️ [alessio.giacche@studenti.unicam.it](mailto:alessio.giacche@studenti.unicam.it)  
+- **Alessio Giacché** — Development ✉️ [alessio.giacche@studenti.unicam.it](mailto:alessio.giacche@studenti.unicam.it)
+
+- **Alessio Pianaroli** — Development
 
 - **Sara Pettinari** — Development & Research ✉️ [sara.pettinari@gssi.it](mailto:sara.pettinari@gssi.it)  
 
